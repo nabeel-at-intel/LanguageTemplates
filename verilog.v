@@ -3,7 +3,7 @@
 //begin_group RAMs and ROMs
 //begin_template Single Port RAM
 // Quartus Prime Verilog Template
-// Single port RAM with single read/write address 
+// Quartus Prime Single port RAM with single read/write address 
 
 module single_port_ram 
 #(parameter DATA_WIDTH=8, parameter ADDR_WIDTH=6)
@@ -29,8 +29,8 @@ module single_port_ram
 		q <= ram[addr];
 	end
 endmodule
-end_template
-begin_template Single Port RAM with Initial Contents
+// end_template
+// begin_template Single Port RAM with Initial Contents
 // Quartus Prime Verilog Template
 // Single port RAM with single read/write address and initial contents 
 // specified with an initial block
