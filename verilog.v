@@ -1,7 +1,7 @@
-begin_group Verilog HDL
-begin_group Full Designs
-begin_group RAMs and ROMs
-begin_template Single Port RAM
+//begin_group Verilog HDL
+//begin_group Full Designs
+//begin_group RAMs and ROMs
+//begin_template Single Port RAM
 // Quartus Prime Verilog Template
 // Single port RAM with single read/write address 
 
