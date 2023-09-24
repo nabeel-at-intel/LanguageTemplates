@@ -1,7 +1,3 @@
-begin_group SystemVerilog
-begin_group Full Designs
-begin_group RAMs and ROMs
-begin_template Mixed-Width Port RAM
 // Quartus Prime SystemVerilog Template
 // 
 // Mixed-width RAM with separate read and write addresses and data widths
