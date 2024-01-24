@@ -1,0 +1,14 @@
+{
+    "name": "MyDevContainer",
+    "image": "ubuntu:20.04",
+
+    "customizations": {
+		"vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "/extensions/redhat.java-0.82.0.vsix"
+            ]
+        }
+    }
+
+}
